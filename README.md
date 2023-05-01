@@ -1,4 +1,22 @@
-# Python Programs
+# Python Programs 🧑‍💻
+
+
+
+## Table of Contents 📄
+
+1) [Control Statements](/01_Control_Statements)
+2) [User Defined Functions](/02_User_Defined_Functions)
+3) [List](/03_List)
+4) [Dictionary](/04_Dictionary)
+5) [File Handling](/05_File_Handling)
+6) [Text processing using strings](/06_Text_Processing_Using_strings)
+7) [Object Oriented Applications using Classes and Objects](/07_Object_Oriented_Applications_using_classes_and_Objects)
+8) [Inheritance using python](/08_Inheritance)
+9) [Graphic Design and Image processing](/09_Graphic_Design_and_Image_Processing)
+10) [Tkinter GUI](/10_Tkinter_GUI)
+
+
+## Modules 📂
 
 ### Module 1: Variables, Expressions and Conditional Statements
 Applications: Simulate a Rock, Scissors, papers game, simulate a Cow and bull game, simulate a
@@ -46,7 +64,7 @@ Concurrently and Setting Up Conversations for Others.
 
 <hr/>
 
-## Contact
+## Contact ☎️📞
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
@@ -55,7 +73,7 @@ Concurrently and Setting Up Conversations for Others.
 
 ### Star ⭐ this repository for Future use :)
 
-Click below to gift a book to me.
+Click below to gift🎁 a book to me.
 
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
 ](https://bit.ly/3M5jxLd)
