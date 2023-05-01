@@ -16,6 +16,12 @@ Hello 👋 future developers and aspiring Python users. Are you trying to find t
 9) [Graphic Design and Image processing](/09_Graphic_Design_and_Image_Processing)
 10) [Tkinter GUI](/10_Tkinter_GUI)
 
+## Languages and Tools 🖥️
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205/Python-Programs)
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
+[![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/Ruban2205/Python-Programs)
 
 ## Modules 📂
 
@@ -69,6 +75,7 @@ Concurrently and Setting Up Conversations for Others.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
 <hr/>
 
