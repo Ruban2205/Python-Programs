@@ -2,7 +2,6 @@
 
 Hello 👋 python developers and aspiring python learners. Are you trying to find the greatest Python practice programs? You can find a [repository](https://github.com/Ruban2205/Python-Programs) here. This repository contains a variety of Python programmes that illustrate basic to complex object-oriented programming concepts. This repository was created with love and effort to give students the best, most easily understood concepts possible. It contains ten distinct concepts, each with two to five understandable sample programmes. If anyone encounters any faults or errors while browsing the repository. Please let me know by contacting me at info@rubangino.in. I'll offer the possibility to work with this repository 🤝.
 
-
 ## Table of Contents 📄
 
 1) [Control Statements](/01_Control_Statements)
