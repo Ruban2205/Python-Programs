@@ -68,6 +68,10 @@ Networks, Clients, and Servers - IP Addresses, Ports, Servers, and Clients, Sock
 Client Script, A Day/Time Server Script, A Two-Way Chat Script, Handling Multiple Clients
 Concurrently and Setting Up Conversations for Others.
 
+## LICENCE 
+
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
 <hr/>
 
 ## Contact ☎️📞
