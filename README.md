@@ -23,8 +23,8 @@ git clone https://github.com/Ruban2205/Python-Programs.git
 The repository provides a diverse collection of Python programs organized into directories based on their respective topics. Each program is contained in its file with a descriptive name. The programs cover a wide range of topics, including:
 
 1) [Control Statements](/01_Control_Statements)
-2) [User Defined Functions](/02_User_Defined_Functions)
-3) [List](/03_List)
+2) [List](/02_List)
+3) [User Defined Functions](/03_User_Defined_Functions)
 4) [Dictionary](/04_Dictionary)
 5) [File Handling](/05_File_Handling)
 6) [Text processing using strings](/06_Text_Processing_Using_strings)
