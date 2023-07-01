@@ -68,7 +68,7 @@ I hope this repository serves as a valuable resource for learning and improving 
 
 ## 📧 Contact
 
-For any questions or inquiries, please contact the project owner: 
+For any questions or inquiries, please contact me through the given details.  
 
 - Ruban [info@rubangino.in](https://mailto:info@rubangino.in/)
 
