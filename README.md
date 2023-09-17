@@ -59,8 +59,8 @@ To Contribute to this repository, follow these steps:
 - Submit a pull request, providing a detailed description of your changes.  
 
 
-## LICENCE 
-This project is licensed under the terms of the MIT License. For more information, please refer to the [LICENCE](/LICENCE) file for more details. 
+## License 
+This project is licensed under the terms of the MIT License. For more information, please refer to the [LICENSE](/LICENSE) file for more details. 
 
 I hope this repository serves as a valuable resource for learning and improving your Python skills. If you have any questions, suggestions, or feedback, please feel free to reach out or open an issue on GitHub. Happy coding!😉
 
